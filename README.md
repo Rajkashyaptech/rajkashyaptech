@@ -1,8 +1,8 @@
 <h1 >Hi 👋, I'm Raj Kashyap</h1>
 <h3>I Love writing code. </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raj-kashyap001&label=Profile%20views&color=0e75b6&style=flat" alt="raj-kashyap001" />
-<img src='https://img.shields.io/github/stars/raj-kashyap001?label=Stars&logo=[VALID_LOGO]&style=[STYLE]'/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raj-kashyap-tech&label=Profile%20views&color=0e75b6&style=flat" alt="raj-kashyap-tech" />
+<img src='https://img.shields.io/github/stars/raj-kashyap-tech?label=Stars&logo=[VALID_LOGO]&style=[STYLE]'/>
 
 </p>
 
